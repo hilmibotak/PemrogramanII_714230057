@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\pemrograman 2\P2_1_714230057\P2_1_714230057\bin\Debug\P2_1_714230057.exe.config
+C:\Users\HP\Documents\pemrograman 2\P2_1_714230057\P2_1_714230057\bin\Debug\P2_1_714230057.exe
+C:\Users\HP\Documents\pemrograman 2\P2_1_714230057\P2_1_714230057\bin\Debug\P2_1_714230057.pdb
+C:\Users\HP\Documents\pemrograman 2\P2_1_714230057\P2_1_714230057\obj\Debug\P2_1_714230057.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\pemrograman 2\P2_1_714230057\P2_1_714230057\obj\Debug\P2_1_714230057.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\pemrograman 2\P2_1_714230057\P2_1_714230057\obj\Debug\P2_1_714230057.exe
+C:\Users\HP\Documents\pemrograman 2\P2_1_714230057\P2_1_714230057\obj\Debug\P2_1_714230057.pdb
