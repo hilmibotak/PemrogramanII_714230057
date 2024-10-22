@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\tugas PBO\\PemrogramanII_714230057\\M.HIlmi ROmsfofi\\Praktikum\\P3_1_714230057\\P3_1_714230057\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5085E5-71DB-4BF1-A46E-628D26698D5C}|P3_1_714230057\\P3_1_714230057.csproj|c:\\users\\hp\\documents\\tugas pbo\\pemrogramanii_714230057\\m.hilmi romsfofi\\praktikum\\p3_1_714230057\\p3_1_714230057\\p3_1_714230057\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC5085E5-71DB-4BF1-A46E-628D26698D5C}|P3_1_714230057\\P3_1_714230057.csproj|solutionrelative:p3_1_714230057\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\tugas PBO\\PemrogramanII_714230057\\M.HIlmi ROmsfofi\\Praktikum\\P3_1_714230057\\P3_1_714230057\\P3_1_714230057\\Program.cs",
+              "RelativeDocumentMoniker": "P3_1_714230057\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\tugas PBO\\PemrogramanII_714230057\\M.HIlmi ROmsfofi\\Praktikum\\P3_1_714230057\\P3_1_714230057\\P3_1_714230057\\Program.cs",
+              "RelativeToolTip": "P3_1_714230057\\Program.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:45:44.741Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
