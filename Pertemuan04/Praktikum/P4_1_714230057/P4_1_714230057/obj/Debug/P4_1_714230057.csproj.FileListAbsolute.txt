@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\tugas PBO\PemrogramanII_714230057\Pertemuan04\Praktikum\P4_1_714230057\P4_1_714230057\bin\Debug\P4_1_714230057.exe.config
+C:\Users\HP\Documents\tugas PBO\PemrogramanII_714230057\Pertemuan04\Praktikum\P4_1_714230057\P4_1_714230057\bin\Debug\P4_1_714230057.exe
+C:\Users\HP\Documents\tugas PBO\PemrogramanII_714230057\Pertemuan04\Praktikum\P4_1_714230057\P4_1_714230057\bin\Debug\P4_1_714230057.pdb
+C:\Users\HP\Documents\tugas PBO\PemrogramanII_714230057\Pertemuan04\Praktikum\P4_1_714230057\P4_1_714230057\obj\Debug\P4_1_714230057.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\tugas PBO\PemrogramanII_714230057\Pertemuan04\Praktikum\P4_1_714230057\P4_1_714230057\obj\Debug\P4_1_714230057.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\tugas PBO\PemrogramanII_714230057\Pertemuan04\Praktikum\P4_1_714230057\P4_1_714230057\obj\Debug\P4_1_714230057.exe
+C:\Users\HP\Documents\tugas PBO\PemrogramanII_714230057\Pertemuan04\Praktikum\P4_1_714230057\P4_1_714230057\obj\Debug\P4_1_714230057.pdb

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\tugas PBO\\PemrogramanII_714230057\\Pertemuan04\\Praktikum\\P4_1_714230057\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62569972-E282-40A4-945B-21CBB81AD8CC}|P4_1_714230057\\P4_1_714230057.csproj|c:\\users\\hp\\documents\\tugas pbo\\pemrogramanii_714230057\\pertemuan04\\praktikum\\p4_1_714230057\\p4_1_714230057\\book_714230057.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62569972-E282-40A4-945B-21CBB81AD8CC}|P4_1_714230057\\P4_1_714230057.csproj|solutionrelative:p4_1_714230057\\book_714230057.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62569972-E282-40A4-945B-21CBB81AD8CC}|P4_1_714230057\\P4_1_714230057.csproj|c:\\users\\hp\\documents\\tugas pbo\\pemrogramanii_714230057\\pertemuan04\\praktikum\\p4_1_714230057\\p4_1_714230057\\product_714230057.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62569972-E282-40A4-945B-21CBB81AD8CC}|P4_1_714230057\\P4_1_714230057.csproj|solutionrelative:p4_1_714230057\\product_714230057.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62569972-E282-40A4-945B-21CBB81AD8CC}|P4_1_714230057\\P4_1_714230057.csproj|c:\\users\\hp\\documents\\tugas pbo\\pemrogramanii_714230057\\pertemuan04\\praktikum\\p4_1_714230057\\p4_1_714230057\\producttes_714230057.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62569972-E282-40A4-945B-21CBB81AD8CC}|P4_1_714230057\\P4_1_714230057.csproj|solutionrelative:p4_1_714230057\\producttes_714230057.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book_714230057.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\tugas PBO\\PemrogramanII_714230057\\Pertemuan04\\Praktikum\\P4_1_714230057\\P4_1_714230057\\Book_714230057.cs",
+              "RelativeDocumentMoniker": "P4_1_714230057\\Book_714230057.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\tugas PBO\\PemrogramanII_714230057\\Pertemuan04\\Praktikum\\P4_1_714230057\\P4_1_714230057\\Book_714230057.cs",
+              "RelativeToolTip": "P4_1_714230057\\Book_714230057.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:57:45.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product_714230057.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\tugas PBO\\PemrogramanII_714230057\\Pertemuan04\\Praktikum\\P4_1_714230057\\P4_1_714230057\\Product_714230057.cs",
+              "RelativeDocumentMoniker": "P4_1_714230057\\Product_714230057.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\tugas PBO\\PemrogramanII_714230057\\Pertemuan04\\Praktikum\\P4_1_714230057\\P4_1_714230057\\Product_714230057.cs",
+              "RelativeToolTip": "P4_1_714230057\\Product_714230057.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:45:37.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductTes_714230057.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\tugas PBO\\PemrogramanII_714230057\\Pertemuan04\\Praktikum\\P4_1_714230057\\P4_1_714230057\\ProductTes_714230057.cs",
+              "RelativeDocumentMoniker": "P4_1_714230057\\ProductTes_714230057.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\tugas PBO\\PemrogramanII_714230057\\Pertemuan04\\Praktikum\\P4_1_714230057\\P4_1_714230057\\ProductTes_714230057.cs",
+              "RelativeToolTip": "P4_1_714230057\\ProductTes_714230057.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:41:56.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

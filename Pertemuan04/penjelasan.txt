@@ -1,0 +1,6 @@
+14. Error karena protected Variabel myType tidak bisa diakses di luar kelas atau kelas turunannya karena menggunakan akses protected.
+19. Variabel protected jadi public Di kelas Product_714230057, ada method public yang membuat variabel protected bisa diakses di kelas turunannya.
+24. Kenapa muncul "DVD" Karena variabel myType pada objek myProduct diisi dengan nilai "DVD". Saat program dijalankan, program membaca perubahan dari atas ke bawah, sehingga "DVD" jadi muncul.
+8. Kenapa tipe dan judul tidak muncul Variabel type dan title tidak diteruskan ke induk kelas. Kelas Book hanya mengatur pageCount, tanpa memberi tahu induk tentang type dan title. Di OOP, ini disebut constructor chaining, di mana constructor di kelas turunan sebaiknya memanggil constructor induk untuk menginisialisasi semua data.
+12. Output muncul karena base() Kelas Book memanggil constructor induknya menggunakan base(type, title). Ini memastikan myType dan myTitle terisi dengan benar di induk kelas.
+19. Objek product2 berbeda dengan product1 Pada kelas DVD_714230069, nilai MyType dan MyTitle langsung diatur di konstruktornya sendiri tanpa memanggil constructor induk (Product_714230057).
