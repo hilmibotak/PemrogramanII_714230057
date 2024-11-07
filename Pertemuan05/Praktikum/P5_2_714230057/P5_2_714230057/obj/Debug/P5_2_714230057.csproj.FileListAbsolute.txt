@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\tugas PBO\PemrogramanII_714230057\Pertemuan05\Praktikum\P5_2_714230057\P5_2_714230057\bin\Debug\P5_2_714230057.exe.config
+C:\Users\HP\Documents\tugas PBO\PemrogramanII_714230057\Pertemuan05\Praktikum\P5_2_714230057\P5_2_714230057\bin\Debug\P5_2_714230057.exe
+C:\Users\HP\Documents\tugas PBO\PemrogramanII_714230057\Pertemuan05\Praktikum\P5_2_714230057\P5_2_714230057\bin\Debug\P5_2_714230057.pdb
+C:\Users\HP\Documents\tugas PBO\PemrogramanII_714230057\Pertemuan05\Praktikum\P5_2_714230057\P5_2_714230057\obj\Debug\P5_2_714230057.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\tugas PBO\PemrogramanII_714230057\Pertemuan05\Praktikum\P5_2_714230057\P5_2_714230057\obj\Debug\P5_2_714230057.ChildForm.resources
+C:\Users\HP\Documents\tugas PBO\PemrogramanII_714230057\Pertemuan05\Praktikum\P5_2_714230057\P5_2_714230057\obj\Debug\P5_2_714230057.ParentForm.resources
+C:\Users\HP\Documents\tugas PBO\PemrogramanII_714230057\Pertemuan05\Praktikum\P5_2_714230057\P5_2_714230057\obj\Debug\P5_2_714230057.Properties.Resources.resources
+C:\Users\HP\Documents\tugas PBO\PemrogramanII_714230057\Pertemuan05\Praktikum\P5_2_714230057\P5_2_714230057\obj\Debug\P5_2_714230057.csproj.GenerateResource.cache
+C:\Users\HP\Documents\tugas PBO\PemrogramanII_714230057\Pertemuan05\Praktikum\P5_2_714230057\P5_2_714230057\obj\Debug\P5_2_714230057.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\tugas PBO\PemrogramanII_714230057\Pertemuan05\Praktikum\P5_2_714230057\P5_2_714230057\obj\Debug\P5_2_714230057.exe
+C:\Users\HP\Documents\tugas PBO\PemrogramanII_714230057\Pertemuan05\Praktikum\P5_2_714230057\P5_2_714230057\obj\Debug\P5_2_714230057.pdb
