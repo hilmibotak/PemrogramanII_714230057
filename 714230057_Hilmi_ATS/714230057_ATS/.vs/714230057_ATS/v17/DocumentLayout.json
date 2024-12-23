@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\tugas PBO\\PemrogramanII_714230057\\714230057_Hilmi_ATS\\714230057_ATS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B607D7E0-4484-44A7-BDB1-0FEC58F370F5}|714230057_ATS\\714230057_ATS.csproj|c:\\users\\hp\\documents\\tugas pbo\\pemrogramanii_714230057\\714230057_hilmi_ats\\714230057_ats\\714230057_ats\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B607D7E0-4484-44A7-BDB1-0FEC58F370F5}|714230057_ATS\\714230057_ATS.csproj|solutionrelative:714230057_ats\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B607D7E0-4484-44A7-BDB1-0FEC58F370F5}|714230057_ATS\\714230057_ATS.csproj|c:\\users\\hp\\documents\\tugas pbo\\pemrogramanii_714230057\\714230057_hilmi_ats\\714230057_ats\\714230057_ats\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B607D7E0-4484-44A7-BDB1-0FEC58F370F5}|714230057_ATS\\714230057_ATS.csproj|solutionrelative:714230057_ats\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "child.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\tugas PBO\\PemrogramanII_714230057\\714230057_Hilmi_ATS\\714230057_ATS\\714230057_ATS\\child.cs",
+              "RelativeDocumentMoniker": "714230057_ATS\\child.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\tugas PBO\\PemrogramanII_714230057\\714230057_Hilmi_ATS\\714230057_ATS\\714230057_ATS\\child.cs [Design]",
+              "RelativeToolTip": "714230057_ATS\\child.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:44:59.937Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\tugas PBO\\PemrogramanII_714230057\\714230057_Hilmi_ATS\\714230057_ATS\\714230057_ATS\\Form1.cs",
+              "RelativeDocumentMoniker": "714230057_ATS\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\tugas PBO\\PemrogramanII_714230057\\714230057_Hilmi_ATS\\714230057_ATS\\714230057_ATS\\Form1.cs [Design]",
+              "RelativeToolTip": "714230057_ATS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:42:59.761Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

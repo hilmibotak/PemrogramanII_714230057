@@ -22,7 +22,7 @@ namespace P7_1_714230057
         {
             StringBuilder errorMsg = new StringBuilder();
 
-            if (string.IsNullOrWhiteSpace(txtNama.Text))
+            if (string.IsNullOrWhiteSpace(txtNama.Text))    
             {
                 errorMsg.Append("Nama harus diisi");
             }
