@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Data;
 
-namespace P9_714230057
+namespace P10_714230057
 {
     internal class MySqlDataApadapter
     {
